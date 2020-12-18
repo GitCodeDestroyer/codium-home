@@ -1,0 +1,22 @@
+/* #E9908A, #3C3F50 */
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    -webkit-font-smoothing: antialiased;
+    font-size-adjust: inherit;
+    background: #F5F5F5;
+    color: #1C2128;
+}
+
+/* TOP NAVIGATION */
+
